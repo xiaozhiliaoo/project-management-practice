@@ -1,5 +1,6 @@
 http://www.extremeprogramming.cn/
 
+敏捷宣言
 http://agilemanifesto.org/
 
 Microsoft Project
@@ -18,5 +19,6 @@ https://scrumprimer.org/
 
 任发科书单：https://www.jianshu.com/p/14a0ab8e191f https://www.jianshu.com/p/fc1ec8e92e86
 
-
+软件工艺宣言
+https://manifesto.softwarecraftsmanship.org/
 
